@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    color: rgb(70, 69, 69);
+}
+h2{
+    width: 50%;
+    color: rgb(70,69,69);
+    font-size: 40px;
+    float: left;
+    margin-left: 20%;
+    padding-left: 10%;
+}
+h3{
+    font-size: 25px;
+    color: rgb(75, 75, 75);
+}
+p{
+    font-family: sans-serif;
+    color: gray;
+}
+.name-highlight{
+    color: coral;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-color:salmon;
+    
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    font-family: sans-serif;
+
+}
+
+.agency-image{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+    
+}
+.agency-image img{
+    width: 100%;
+}
+.chat-area{
+    height: auto;
+}
+.lets-chat{
+    background-image: url(personal-website-main/shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    background-position: center;
+    color: white;
+    margin-top: 400px;
+    padding-bottom: 100px;
+    padding-left: 2%;
+    margin-right: 20%;
+    margin-left: 20%;
+    padding-top: 10%;
+    
+    
+    
+}
+.lets-chat h1{
+    display: inline;
+    font-size: 40px;
+    padding-right: 20%;
+    color: white;
+    margin-right: 20%;
+    
+
+}
+
+.lets-chat a{
+    float: right;
+    padding-top: 5%;
+    padding-right: 22%;
+    margin-right: 15%;
+}
+
+section{
+    height: 600px;
+    
+   
+}
+.chat{
+    
+}
+
+
+
+
+    
+
+
